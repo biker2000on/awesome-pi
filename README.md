@@ -16,7 +16,6 @@ This repository is an attempt to aggregate the best/most useful resources togeth
 * [PI Vision Custom Symbols Github Repository](https://github.com/osisoft/PI-Vision-Custom-Symbols)
 * [Official OSIsoft github account](https://github.com/osisoft)
 * [PI Web API Repository Links](https://pisquare.osisoft.com/community/developers-club/blog/2017/11/01/pi-web-api-client-libraries-already-released)
-* 
 
 ## PI Security
 
@@ -29,3 +28,4 @@ This repository is an attempt to aggregate the best/most useful resources togeth
 ## PI with non-ASCII Characters
 
 * [How PI Treats Non-ASCII Characters](https://techsupport.osisoft.com/Troubleshooting/KB/KB00454)
+* [How to read and write non-ASCII Characters](https://pisquare.osisoft.com/thread/37189-can-i-use-utf-8-encoded-characters-in-digital-state-set-strings)
