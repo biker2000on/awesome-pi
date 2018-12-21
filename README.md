@@ -26,3 +26,6 @@ This repository is an attempt to aggregate the best/most useful resources togeth
 
 * [Input PI Data to the DCS](https://pisquare.osisoft.com/message/105028-re-writing-data-back-to-opc-from-pi)
 
+## PI with non-ASCII Characters
+
+* [How PI Treats Non-ASCII Characters](https://techsupport.osisoft.com/Troubleshooting/KB/KB00454)
